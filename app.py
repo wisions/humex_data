@@ -2,7 +2,7 @@
 HUMEX -- Human Movement in an Exhibition
 ==========================================
 Interactive browser for visitor trajectories
-recorded at the Los Angeles County Museum of Art (2022).
+recorded in a museum exhibition space (2022).
 """
 
 import io
